@@ -1,5 +1,5 @@
-
-  "title": "Hello World",
+{
+  "title": "PLACEHOLDER",
   "logo": "assets/paper_img/eventlogos/cv.svg",
   "link": "https://goo.gl/forms/UxAVyjLO1G17Xfs93",
   "location": "cool location in Utrecht",
