@@ -1,17 +1,21 @@
 // event 1 ---------------------------------------------------------------------
 
-//title
-var e1title = "Statistics Café";
-//logo
-var e1logo = "assets/paper_img/eventlogos/cv.svg";
-//location
-var e1location = "cool location in Utrecht";
-//time/date
-var e1datetime = "14/10/2016<br />21:00";
-//text
-var e1text = "Two professors will perform in this epic rap battle of history! The topic is yet to be determined, but we can guarantee that it will be very good. We will start with <em>free</em> drinks of course, and after that you'll have to pay for yourself and your friends. <br /><br /> Sign up below so we know how many free drinks to order!";
-//sign-up link
-var e1link = "https://goo.gl/forms/UxAVyjLO1G17Xfs93";
+$.get("assets/events/event1.txt", function(data){
+    try {
+      var json = $.parseJSON(data);
+    }
+    catch(err){
+      console.log("Failed to parse JSON. Check your file! Error message:");
+      console.log(err);
+      return;
+    }
+
+    $('.e1title').html("").append(json.title);
+    $('.e1logo').attr("src", json.logo);
+    $('.e1link').attr("href", json.link).attr("target", "_blank");
+    $('.e1location').html("").append(json.location + "<br />" + json.date + "<br />" + json.time);
+    $('.e1text').html("").append(json.description);
+});
 
 
 // event 2 ---------------------------------------------------------------------
