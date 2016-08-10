@@ -1,4 +1,9 @@
 {
   "title": "Hello World",
-  "logo": "assets/paper_img/eventlogos/cv.svg"
+  "logo": "assets/paper_img/eventlogos/cv.svg",
+  "link": "https://goo.gl/forms/UxAVyjLO1G17Xfs93",
+  "location": "cool location in Utrecht",
+  "date": "14/10/2016",
+  "time": "21:00",
+  "description": "Two professors will perform in this epic rap battle of history! The topic is yet to be determined, but we can guarantee that it will be very good. We will start with <em>free</em> drinks of course, and after that you'll have to pay for yourself and your friends. <br /><br /> Sign up below so we know how many free drinks to order!"
 }
