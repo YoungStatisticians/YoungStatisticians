@@ -58,7 +58,7 @@ $('.e1text').html("");
 $('.e1text').append(e1text);
 
 
-$('.e2title').html("").load("assets/events/event1.txt #head");
+$('.e2title').html("").load("assets/events/event1.txt #head").text();
 $('.e2logo').attr("src", e2logo);
 $('.e2link').attr("href", e2link);
 $('.e2link').attr("target", "_blank");
