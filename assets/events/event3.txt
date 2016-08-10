@@ -1,1 +1,9 @@
-<h4>yoyo</h4>
+{
+  "title": "Cross Validation Meeting",
+  "logo": "assets/paper_img/eventlogos/cv.svg",
+  "link": "https://goo.gl/forms/UxAVyjLO1G17Xfs93",
+  "location": "Nice location in Leiden",
+  "date": "31/21/2016",
+  "time": "19:00",
+  "description": "In this meeting, three PhD students will talk about their research regarding some cool topics. They will engage in deep conversations about what it is to be a statistician. <br /><br />Sign up below so we know how many free drinks to order!";
+}
