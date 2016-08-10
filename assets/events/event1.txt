@@ -1,1 +1,1 @@
-<p id="head"> Cool title yo </p>
+<id="head"> Cool title yo </>
