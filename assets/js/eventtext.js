@@ -47,9 +47,9 @@ var e3link = "https://goo.gl/forms/UxAVyjLO1G17Xfs93";
 
 // Load data -------------------------------------------------------------------
 
-$.getJSON("assets/events/event1.txt", function (data) {
-  var e2title = data.title;
-  var e2logo = data.logo;
+$.getJSON("assets/events/event1.json", function (data) {
+  e2title = data.title;
+  e2logo = data.logo;
 });
 
 
