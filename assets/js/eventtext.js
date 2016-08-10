@@ -45,35 +45,39 @@ var e3text = "In this meeting, three PhD students will talk about their research
 //sign-up link
 var e3link = "https://goo.gl/forms/UxAVyjLO1G17Xfs93";
 
-// javascript ------------------------------------------------------------------
+// Load data -------------------------------------------------------------------
 
-$('.e1title').html("");
-$('.e1title').append(e1title);
+$.getJSON("assets/events/event1.txt", function (data) {
+  e2title = data.title;
+  e2logo = data.logo;
+});
+
+
+
+// DOM manipulation ------------------------------------------------------------
+
+$('.e1title').html("").append(e1title);
 $('.e1logo').attr("src", e1logo);
 $('.e1link').attr("href", e1link);
 $('.e1link').attr("target", "_blank");
 $('.e1location').html("");
 $('.e1location').append(e1location + "<br />" + e1datetime);
-$('.e1text').html("");
-$('.e1text').append(e1text);
+$('.e1text').html("").append(e1text);
 
 
-$('.e2title').html("").load("assets/events/event1.txt #head").text();
-$('.e2logo').attr("src", e2logo);
+$('.e2title').html("").append(e2title);
+$('.e2logo').attr("src", e1logo);
 $('.e2link').attr("href", e2link);
 $('.e2link').attr("target", "_blank");
 $('.e2location').html("");
 $('.e2location').append(e2location + "<br />" + e2datetime);
-$('.e2text').html("");
-$('.e2text').append(e2text);
+$('.e2text').html("").append(e2text);
 
 
-$('.e3title').html("");
-$('.e3title').append(e3title);
+$('.e3title').html("").append(e3title);
 $('.e3logo').attr("src", e3logo);
 $('.e3link').attr("href", e3link);
 $('.e3link').attr("target", "_blank");
 $('.e3location').html("");
 $('.e3location').append(e3location + "<br />" + e1datetime);
-$('.e3text').html("");
-$('.e3text').append(e3text);
+$('.e3text').html("").append(e3text);
