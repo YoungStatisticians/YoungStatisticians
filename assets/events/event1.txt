@@ -1,1 +1,1 @@
-<span id="head"> Cool title yo </span>
+<var id="head"> Cool title yo </var>
