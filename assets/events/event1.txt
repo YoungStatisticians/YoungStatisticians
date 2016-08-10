@@ -1,1 +1,4 @@
-<var id="head"> Cool title yo </var>
+{
+  "title": "Hello World",
+  "logo": "assets/paper_img/eventlogos/cv.svg",
+}
