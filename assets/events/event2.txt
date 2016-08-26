@@ -1,6 +1,6 @@
 {
   "title": "Company Visit Company X",
-  "logo": "assets/paper_img/eventlogos/cv.svg",
+  "logo": "assets/paper_img/eventlogos/co.svg",
   "link": "https://goo.gl/forms/UxAVyjLO1G17Xfs93",
   "location": "Company X Amsterdam",
   "date": "31/11/2016",
