@@ -1,6 +1,6 @@
 {
   "title": "Statistics Café",
-  "logo": "assets/paper_img/eventlogos/cv.svg",
+  "logo": "assets/paper_img/eventlogos/sc.svg",
   "link": "https://goo.gl/forms/UxAVyjLO1G17Xfs93",
   "location": "cool location in Utrecht",
   "date": "14/10/2016",
