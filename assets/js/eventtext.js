@@ -12,7 +12,11 @@ $.get("assets/events/event1.txt", function(data){
 
     $('.e1title').html("").append(json.title);
     $('.e1logo').attr("src", json.logo);
-    $('.e1link').attr("href", json.link).attr("target", "_blank");
+    if (json.link == ""){
+      $('.e1link').attr("data-toggle","modal").attr("data-target","#signUpClosed");
+    } else {
+      $('.e1link').attr("href", json.link).attr("target", "_blank");
+    }
     $('.e1location').html("").append(json.location + "<br />" + json.date + "<br />" + json.time);
     $('.e1text').html("").append(json.description);
 });
@@ -32,7 +36,11 @@ $.get("assets/events/event2.txt", function(data){
 
     $('.e2title').html("").append(json.title);
     $('.e2logo').attr("src", json.logo);
-    $('.e2link').attr("href", json.link).attr("target", "_blank");
+    if (json.link == ""){
+      $('.e2link').attr("data-toggle","modal").attr("data-target","#signUpClosed");
+    } else {
+      $('.e2link').attr("href", json.link).attr("target", "_blank");
+    }
     $('.e2location').html("").append(json.location + "<br />" + json.date + "<br />" + json.time);
     $('.e2text').html("").append(json.description);
 });
@@ -52,7 +60,11 @@ $.get("assets/events/event3.txt", function(data){
 
     $('.e3title').html("").append(json.title);
     $('.e3logo').attr("src", json.logo);
-    $('.e3link').attr("href", json.link).attr("target", "_blank");
+    if (json.link == ""){
+      $('.e3link').attr("data-toggle","modal").attr("data-target","#signUpClosed");
+    } else {
+      $('.e3link').attr("href", json.link).attr("target", "_blank");
+    }
     $('.e3location').html("").append(json.location + "<br />" + json.date + "<br />" + json.time);
     $('.e3text').html("").append(json.description);
 });

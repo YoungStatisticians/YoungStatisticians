@@ -1,9 +1,9 @@
 {
-  "title": "Company Visit Company X",
+  "title": "Company Visit",
   "logo": "assets/paper_img/eventlogos/co.svg",
-  "link": "https://goo.gl/forms/UxAVyjLO1G17Xfs93",
-  "location": "Company X Amsterdam",
-  "date": "31/11/2016",
+  "link": "",
+  "location": "Amsterdam",
+  "date": "11/2016",
   "time": "19:00",
-  "description": "In this event we will visit the statistical department at Company X. As you may know, this company does a lot with data and we expect to learn a lot from their experience in the field! The afternoon will start with some <em>free</em> drinks and we will end with more drinks.<br /> <br />Sign up below so the great people at Company X know how big their room should be!"
+  "description": "At this event we will visit the statistical department at a company. The afternoon will start with a tour and we will end with some drinks.<br /> <br />Sign up below to let the company know you'll be there!"
 }

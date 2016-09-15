@@ -98,9 +98,9 @@
   background-image: url('../paper_img/tile2.png');
   background-repeat: repeat-x;
   margin-top: -2px;
-  height: 175px;
+  height: 172px;
   width: 100%;
-  z-index: 2;
+  z-index: 0;
   position: absolute;
   opacity: 1
 }

@@ -1,9 +1,9 @@
 {
   "title": "Statistics Café",
   "logo": "assets/paper_img/eventlogos/sc.svg",
-  "link": "https://goo.gl/forms/UxAVyjLO1G17Xfs93",
-  "location": "cool location in Utrecht",
-  "date": "14/10/2016",
+  "link": "",
+  "location": "Utrecht",
+  "date": "10/2016",
   "time": "21:00",
-  "description": "Two statistical scientists will discuss together with the audience! The topic is yet to be determined, but we can guarantee that it will be very good. We will start with <em>free</em> drinks of course, and after that you'll have to pay for yourself and your friends. <br /><br /> Sign up below so we know how many free drinks to order!"
+  "description": "The introductory meeting! We will learn new things about a concept in statistics, and get introduced to each other and to the organisation. The exact topic is yet to be determined. <br /><br /> Sign up below so we know how many drinks to order!"
 }
