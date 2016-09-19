@@ -2,6 +2,9 @@ How to edit the website content
 ===============================
 
 ![img](/assets/paper_img/balloon.jpg)
+## GitHub Write Access
+In order to be able to change the website, ask the moderator of the GitHub account for write access or submit a pull request to the main repo from your own fork.
+
 ## Event text
 The event text can be edited in the text files in `~\assets\events\`. Do as follows:
 
