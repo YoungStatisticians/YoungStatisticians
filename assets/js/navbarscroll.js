@@ -22,7 +22,7 @@
         });
     });
 
-    $(".mailaddress").attr("href", "mailto:info@youngstatisticians.nl")
+    $(".mailaddress").attr("href", "mailto:contact@youngstatisticians.nl")
 
 });
   }(jQuery));
