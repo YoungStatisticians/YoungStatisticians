@@ -23,6 +23,10 @@
     });
 
     $(".mailaddress").attr("href", "mailto:contact@youngstatisticians.nl")
+    
+    loadSignup = function(){
+      $("#signup").html('<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSci4sOEXWt-DxBdpyVU-tUiyWU_F19iW5j0Wtk8abzT_6Z8PA/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>').fadeIn()
+    }
 
 });
   }(jQuery));
