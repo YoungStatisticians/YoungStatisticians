@@ -1,9 +1,9 @@
 {
-  "title": "Cross Validation",
-  "logo": "assets/paper_img/eventlogos/cv.svg",
+  "title": "Workshop",
+  "logo": "assets/paper_img/eventlogos/ws.svg",
   "link": "",
-  "location": "Leiden",
-  "date": "12/2016",
-  "time": "19:00",
-  "description": "In this meeting, three students will talk about interesting parts of their research. We will then discuss these findings and get inspired. <br /><br />Sign up below so we know how many drinks to order!"
+  "location": "University of Amsterdam",
+  "date": "11/2016",
+  "time": "",
+  "description": "In this meeting we will acquire new data visualisation skills! <br/> <br/> A maximum of 30 people can attend, sign up below!"
 }
