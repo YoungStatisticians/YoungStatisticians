@@ -5,5 +5,5 @@
   "location": "Bar Beton Utrecht Central Station",
   "date": "25/10/2016",
   "time": "20:00",
-  "description": "At the statistics café you have the opportunity get introduced to (or catch up with) each other and with the organisation. You can also learn about several interesting topics: we will invite 4 young statisticians to present shortly about their inspiring (side-)projects! <br /><br /> Sign up below so we know how many drinks to order!"
+  "description": "At the statistics café you have the opportunity get introduced to (or catch up with) each other and with the organisation. You can also learn about several interesting topics: we will invite several young statisticians to present shortly about their inspiring (side-)projects! <br /><br /> Sign up below so we know how many drinks to order!"
 }

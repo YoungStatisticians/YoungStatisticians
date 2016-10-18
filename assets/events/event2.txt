@@ -2,8 +2,8 @@
   "title": "Company Visit",
   "logo": "assets/paper_img/eventlogos/co.svg",
   "link": "",
-  "location": "Amsterdam",
-  "date": "11/2016",
-  "time": "19:00",
-  "description": "At this event we will visit the statistical department at a company. The afternoon will start with a tour and we will end with some drinks.<br /> <br />Sign up below to let the company know you'll be there!"
+  "location": "Delta Lloyd, Amstelplein 6-8, Amsterdam",
+  "date": "16/11/2016",
+  "time": "14:00",
+  "description": "At this event we will visit <a href='http://www.deltalloyd.nl/' target='_blank'>Delta Lloyd</a>, a big financial (insurance) company. Three short talks will be organised, with an opportunity to ask questions.<br /> <br />Sign up below if you want to join! There is a maximum of 24 visitors."
 }
