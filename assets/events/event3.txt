@@ -1,7 +1,7 @@
 {
   "title": "Workshop",
   "logo": "assets/paper_img/eventlogos/ws.svg",
-  "link": "https://drive.google.com/open?id=1Goo2fNn9ykPFjQi-kssohvEhB3NjOdowuBmeeszh8GQ",
+  "link": "https://docs.google.com/forms/d/1Goo2fNn9ykPFjQi-kssohvEhB3NjOdowuBmeeszh8GQ/viewform?edit_requested=true",
   "location": "Roesterseiland campus, University of Amsterdam",
   "date": "11/2016",
   "time": "13:00-17:00",
