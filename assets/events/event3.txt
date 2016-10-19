@@ -1,9 +1,9 @@
 {
   "title": "Workshop",
   "logo": "assets/paper_img/eventlogos/ws.svg",
-  "link": "",
-  "location": "University of Amsterdam",
+  "link": "https://drive.google.com/open?id=1Goo2fNn9ykPFjQi-kssohvEhB3NjOdowuBmeeszh8GQ",
+  "location": "Roesterseiland campus, University of Amsterdam",
   "date": "11/2016",
-  "time": "",
-  "description": "In this meeting we will acquire new data visualisation skills! <br/> <br/> A maximum of 30 people can attend, sign up below!"
+  "time": "13:00-17:00",
+  "description": "In this interactive workshop, Jan Willen Tulp (<a href='http://tulpinteractive.com' target='_blank'>), an international renowned data experience designer who recently visualized all trees on the panet for Nature magazine, will teach how to take smart design decision when creating visual representations of data. There is only 36 places, first come first serve!"
 }
