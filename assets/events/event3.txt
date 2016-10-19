@@ -5,5 +5,5 @@
   "location": "Roesterseiland campus, University of Amsterdam",
   "date": "11/2016",
   "time": "13:00-17:00",
-  "description": "In this interactive workshop, <a href='http://tulpinteractive.com' target='_blank'>Jan Willen Tulp</a>, an internationally renowned data experience designer, who recently <a href='http://www.nature.com/nature/journal/v525/n7568/index.html' target='_blank'>visualized all trees on the planet for Nature magazine</a> , will teach us how to take smart design decision when creating visual representations of data. There are only 36 places, first come first serve!"
+  "description": "In this interactive workshop, <a href='http://tulpinteractive.com' target='_blank'>Jan Willen Tulp</a>, an internationally renowned data experience designer who recently <a href='http://www.nature.com/nature/journal/v525/n7568/index.html' target='_blank'>visualized all trees on the planet for Nature magazine</a> will teach us how to take smart design decision when creating visual representations of data. There are only 36 places, first come first serve!"
 }
