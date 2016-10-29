@@ -74,15 +74,15 @@
     background-image: url('../paper_img/statscafe.jpg');
     background-position: center center;
     background-size: cover;
-    background-attachment: fixed;
+    // background-attachment: fixed;
     margin-top:0;
 }
 .bg2{
-    background-image: url('../paper_img/building.jpg');
-    background-position: center center;
-    background-size: cover;
-    background-attachment: fixed;
-    margin-top:0;
+  background-image: url('../paper_img/building.jpg');
+  background-position: center center;
+  background-size: cover;
+  // background-attachment: fixed;
+  margin-top:0;
 }
 .tile {
     background-image: url('../paper_img/tile1.png');
@@ -298,7 +298,7 @@
 }
 .separator{
     content: "Separator";
-    color: #FFFFFF;
+    color: transparent;
     display: block;
     width: 100%;
     padding: 20px;
@@ -312,14 +312,14 @@
 }
 .separator200{
     content: "Separator";
-    color: #FFFFFF;
+    color: transparent;
     display: block;
     width: 100%;
     padding: 200px;
 }
 .separatorEJ{
     content: "Separator";
-    color: #FFFFFF;
+    color: transparent;
     display: block;
     width: 100%;
     padding: 100%;
