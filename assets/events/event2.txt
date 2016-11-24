@@ -1,9 +1,9 @@
 {
   "title": "Company Visit",
   "logo": "assets/paper_img/eventlogos/co.svg",
-  "link": "https://docs.google.com/forms/d/15OsP2NGxF9Vuxbdrzvo9xsQCjYu95A7SSo7w4p-6yn8/edit",
-  "location": "Delta Lloyd, Amstelplein 6-8, Amsterdam",
-  "date": "16/11/2016",
-  "time": "14:00-16:00",
-  "description": "The <a href='http://www.deltalloyd.nl/' target='_blank'>Delta Lloyd Group</a> is one of Netherland's leading insurance companies. In three talks we will hear about risk management of events that are difficult to predict such as natural catastrophes and equity market crashes, and about models of Dutch mortality trends. After the talks there will be drinks and the opportunity to continue the discussion with the speakers and other employees at Delta Lloyd. There is a maximum of 24 visitors. "
+  "link": "",
+  "location": "",
+  "date": "02/2016",
+  "time": "",
+  "description": "There will be another Company Visit in February at a major tech company. To be announced soon!"
 }

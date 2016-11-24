@@ -1,9 +1,9 @@
-﻿{
-  "title": "Statistics Café",
+{
+  "title": "Statistical Pub Quiz",
   "logo": "assets/paper_img/eventlogos/sc.svg",
-  "link": "https://docs.google.com/forms/d/e/1FAIpQLSct4EfegWlocqj4BH79nA7hrmg1HC8dMbdjM9JGU2oQo7pL0Q/viewform?entry.1199652361&entry.479002905&entry.235632272&entry.2063962833=Sign+me+up+to+the+Young+Statisticians+mailing+list!",
-  "location": "Bar Beton Utrecht Central Station",
-  "date": "25/10/2016",
-  "time": "20:00",
-  "description": "At the statistics café you have the opportunity get introduced to (or catch up with) each other and with the organisation. You can also learn about several interesting topics: we will invite several young statisticians to present shortly about their inspiring (side-)projects! <br /><br /> Sign up below so we know how many drinks to order!"
+  "link": "http://tinyurl.com/jy888mp",
+  "location": "Café de Eeuwige Student, Wassenaarseweg 1, Leiden ",
+  "date": "08/12/2016",
+  "time": "19:00-23.00",
+  "description": "Join us for our next Statistical Pub Quiz to mingle with fellow young statisticians in a laid back atmosphere. You will compete in small groups in several rounds of a pub quiz, this time focused on statistical bloopers. Sign up below and get a free welcome drink."
 }
