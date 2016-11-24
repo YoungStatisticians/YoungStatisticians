@@ -1,17 +1,9 @@
 {
   "title": "Workshop",
   "logo": "assets/paper_img/eventlogos/ws.svg",
-<<<<<<< HEAD
   "link": "",
   "location": "",
   "date": "03/2016",
   "time": "",
   "description": "We will have a YS Workshop focused on statistical software. More details are announced soon."
-=======
-  "link": "https://docs.google.com/forms/d/1Goo2fNn9ykPFjQi-kssohvEhB3NjOdowuBmeeszh8GQ/viewform?edit_requested=true",
-  "location": "Roesterseiland campus, University of Amsterdam",
-  "date": "11/2016",
-  "time": "13:00-17:00",
-  "description": "In this interactive workshop, <a href='http://tulpinteractive.com' target='_blank'>Jan Willem Tulp</a>, an internationally renowned data experience designer who recently <a href='http://www.nature.com/nature/journal/v525/n7568/index.html' target='_blank'>visualized all trees on the planet for Nature magazine</a> will teach us how to take smart design decision when creating visual representations of data. There are only 36 places, first come first serve!"
->>>>>>> a7efa0aa222061664a11e64eff18f733bc1c7ca5
 }
