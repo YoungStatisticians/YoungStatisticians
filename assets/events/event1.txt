@@ -5,5 +5,5 @@
   "location": "Bar Beton CS, Station Utrecht Centraal, Stationshal 9, 1e verdieping Jaarbeurszijde",
   "date": "11/01/2016",
   "time": "19:00-23.00",
-  "description": "Join us for our New Year Drinks and mingle with fellow young statisticians and senior statisticians from the <a href="http://www.vvs-or.nl">VVSoR</a>. In addition, there will be free drinks and a small competition in the YS Stat-Olympics. We are looking forward to seeing you on the 11th! <a href="https://goo.gl/forms/FKlYMt0kssq08v8G2">Please sign up here.</a>"
+  "description": "Test"
 }
