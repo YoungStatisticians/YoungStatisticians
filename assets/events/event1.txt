@@ -1,9 +1,9 @@
 {
-  "title": "Statistical Pub Quiz",
+  "title": "YS New Year's Drinks",
   "logo": "assets/paper_img/eventlogos/sc.svg",
-  "link": "http://tinyurl.com/jy888mp",
-  "location": "Café de Eeuwige Student, Wassenaarseweg 1, Leiden ",
-  "date": "08/12/2016",
+  "link": "https://goo.gl/forms/FKlYMt0kssq08v8G2",
+  "location": "Bar Beton CS, Station Utrecht Centraal, Stationshal 9, 1e verdieping Jaarbeurszijde",
+  "date": "11/01/2016",
   "time": "19:00-23.00",
-  "description": "Join us for our next Statistical Pub Quiz to mingle with fellow young statisticians in a laid back atmosphere. You will compete in small groups in several rounds of a pub quiz, this time focused on statistical bloopers. Sign up below and get a free welcome drink."
+  "description": "Join us for our New Year Drinks and mingle with fellow young statisticians and senior statisticians from the <a href="http://www.vvs-or.nl">VVSoR</a>. In addition, there will be free drinks and a small competition in the YS Stat-Olympics. We are looking forward to seeing you on the 11th! <a href="https://goo.gl/forms/FKlYMt0kssq08v8G2">Please sign up here.</a>"
 }
