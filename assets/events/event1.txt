@@ -5,5 +5,5 @@
   "location": "Jaarbeurs, Utrecht",
   "date": "23/03/2016",
   "time": "9:00-20:00",
-  "description": "Join us at the <a href='http://www.vvs-or.nl' target='_blank'>VvS-OR</a> annual meeting for meeting both young and old statisticians. You can listen to many interesting speakers on the theme "Health Care for the Future". Try to find our stand and come and play our guesstimation game!</a>"
+  "description": "Join us at the <a href='http://www.vvs-or.nl' target='_blank'>VvS-OR</a> annual meeting for meeting both young and old statisticians. You can listen to many interesting speakers on the theme Health Care for the Future. Try to find our stand and come and play our guesstimation game!</a>"
 }
