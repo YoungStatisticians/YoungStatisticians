@@ -1,9 +1,9 @@
 {
-  "title": "Company Visit",
+  "title": "Shell Company Visit",
   "logo": "assets/paper_img/eventlogos/co.svg",
-  "link": "",
-  "location": "",
-  "date": "02/2016",
-  "time": "",
-  "description": "There will be another Company Visit in February at a major tech company. To be announced soon!"
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLSf-G1TqaXcUGzM7Lj44XXaaCixePrYobqFRlGexomtGU4KP8w/viewform?c=0&w=1",
+  "location": "Grasweg 31 Amsterdam",
+  "date": "10/04/2016",
+  "time": "14:00",
+  "description": "At this company visit to the Shell Laboratories in Amsterdam we will see presentations on three different topics: (1) The structure of the Shell statistics and data science team and how they operate in Shell’s global businesses, (2) Modelling of long-term scenarios for the global energy system to inform strategic planning and (3) Data science in human resources analytics."
 }

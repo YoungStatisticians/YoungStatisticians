@@ -1,10 +1,9 @@
 {
-  "title": "YS New Year's Drinks",
-  "logo": "assets/paper_img/eventlogos/sc.svg",
-  "link": "https://goo.gl/forms/FKlYMt0kssq08v8G2",
-  "location": "Bar Beton CS, Station Utrecht Centraal",
-  "date": "11/01/2016",
-  "time": "19:00-23.00",
-  "description": "Join us for our New Year Drinks and mingle with fellow young statisticians and senior statisticians from the <a href='http://www.vvs-or.nl' target='_blank'>VVSoR</a>. In addition, there will be free drinks and a small competition in the YS Stat-Olympics. We are looking forward to seeing you on the 11th!</a>"
+  "title": "VvS-OR Annual Meeting",
+  "logo": "assets/paper_img/eventlogos/ys.svg",
+  "link": "http://vvs-or.nl/en/menu/Events/Annual_Meeting/Register",
+  "location": "Jaarbeurs, Utrecht",
+  "date": "23/03/2016",
+  "time": "9:00-20:00",
+  "description": "Join us at the <a href='http://www.vvs-or.nl' target='_blank'>VvS-OR</a> annual meeting for meeting both young and old statisticians. You can listen to many interesting speakers on the theme "Health Care for the Future". Try to find our stand and come and play our guesstimation game!</a>"
 }
-
