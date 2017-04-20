@@ -1,9 +1,14 @@
+
 {
-  "title": "Workshop",
-  "logo": "assets/paper_img/eventlogos/ws.svg",
+  "title": "Company Visit",
+  "logo": "assets/paper_img/eventlogos/co.svg",
   "link": "",
   "location": "",
-  "date": "03/2016",
+  "date": "18/09/2016",
   "time": "",
-  "description": "We will have a YS Workshop focused on statistical software. More details are announced soon."
+  "description": "There will be another Company Visit in September at <a href='alliander' target='_blank'>Alliander</a>. More details will be announced soon!"
 }
+
+
+
+
