@@ -1,3 +1,8 @@
+![title](http://youngstatisticians.nl/assets/paper_img/YStitle.svg)
+
+[![Website](https://img.shields.io/website-up-down-green-red/http/youngstatisticians.nl.svg)](http://youngstatisticians.nl)
+
+
 How to edit the website content
 ===============================
 
