@@ -1,9 +1,9 @@
 {
-  "title": "Workshop SAS",
-  "logo": "assets/paper_img/eventlogos/ws.svg",
-  "link": "",
-  "location": "",
-  "date": "01/05/2017",
-  "time": "",
-  "description": "We will have a YS Workshop focused on statistical software. More details are announced soon."
+  "title": "Statistics Cafe on Causality",
+  "logo": "assets/paper_img/eventlogos/sc.svg",
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLSeAytYqgyRHNq1bduk-T44c2kHwnGFxI4aW4E0Ou30-WSnRXw/viewform?entry.1040865795&entry.413810658&entry.145991317&entry.1070648296&entry.463441536=Sign+me+up+for+the+Young+Statisticians+mailing+list+(one+a+moth,+updates+about+new+events)",
+  "location": "Bar Beton CS, Station Utrecht Centraal",
+  "date": "17/05/2017",
+  "time": "19:30-22.30",
+  "description": "In the upcoming YS Statistics Café on Causality, <a href='http://www.rug.nl/news-and-events/people-perspectives/scientists-in-focus/jwromeijn' target='_blank'>Prof. Romeijn (RUG)</a>, <a href='https://staff.fnwi.uva.nl/j.m.mooij' target='_blank'>Dr. Mooij (UvA)</a> and <a href='http://users.ugent.be/~dmarinaz/' target='_blank'>Dr. Marinazzo (UGent)</a> will elucidate the topic of causality from <a href='http://jmbh.github.io/files/SC_AbstractsOnline.pdf' target='_blank'>different perspectives</a> . The discussion will be continued in an informal setting after the talks and there will be free drinks. Where? Bar Beton CS, Utrecht Central Station. When? Wednesday 17th May, 19.30. We are looking forward to seeing you on the 17th!</a>"
 }
