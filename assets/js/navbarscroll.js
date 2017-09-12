@@ -25,7 +25,7 @@
     $(".mailaddress").attr("href", "mailto:contact@youngstatisticians.nl")
     
     loadSignup = function(){
-      $("#signup").html('<div class="col-md-8 col-md-offset-2 col-xs-12"> <div style="border-radius:20px; overflow: hidden;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0aQWeTsNk3EqUwGGASPOR2Hi9Mn5PLnYFJcdiWacO_rVrvA/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0" style="display:block; width:100%;" scrolling="no">Loading...</iframe></div></div>').fadeIn()
+      $("#signup").html('<div class="col-md-8 col-md-offset-2 col-xs-12"> <div style="border-radius:20px; overflow: hidden;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0aQWeTsNk3EqUwGGASPOR2Hi9Mn5PLnYFJcdiWacO_rVrvA/viewform?embedded=true" width="100%" height="1050" frameborder="0" marginheight="0" marginwidth="0" style="display:block; width:100%;" scrolling="no">Loading...</iframe></div></div>').fadeIn()
     }
 
 });

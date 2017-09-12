@@ -1,14 +1,10 @@
 
 {
-  "title": "Company Visit",
-  "logo": "assets/paper_img/eventlogos/co.svg",
+  "title": "Pub quiz",
+  "logo": "assets/paper_img/eventlogos/pq.svg",
   "link": "",
   "location": "",
-  "date": "18/09/2016",
+  "date": "11/2017",
   "time": "",
-  "description": "There will be another Company Visit in September at <a href='alliander' target='_blank'>Alliander</a>. More details will be announced soon!"
+  "description": "At the end of November there will be a pub quiz in Leiden. Details will follow soon!"
 }
-
-
-
-

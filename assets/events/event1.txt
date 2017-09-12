@@ -1,13 +1,9 @@
-
 {
-  "title": "Workshop SAS",
-  "logo": "assets/paper_img/eventlogos/ws.svg",
-  "link": "",
-  "location": "",
-  "date": "01/05/2017",
-  "time": "",
-  "description": "We will have a YS Workshop focused on statistical software. More details are announced soon."
+  "title": "Company Visit Alliander",
+  "logo": "assets/paper_img/eventlogos/co.svg",
+  "link": "https://docs.google.com/forms/d/1Sp6iZibUPGpjoq3CZy36HxcU3T-8uPfpfeqO3mZ2HK4",
+  "location": "Utrechtseweg 68, Arnhem",
+  "date": "18/09/2017",
+  "time": "15:00-18:00",
+  "description": "At this event we will visit Alliander, a large energy network provider. By visiting their department 'Data & Insight' we will learn about how Alliander learns from the past, monitors the present, and predicts the effects of developments in the world of energy. There will be two talks, an energy quiz, and of course there will be drinks afterwards!"
 }
-
-
-
