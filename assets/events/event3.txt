@@ -1,10 +1,9 @@
-
 {
-  "title": "Pub quiz",
-  "logo": "assets/paper_img/eventlogos/pq.svg",
+  "title": "Statistics Café:<br>Sports Statistics",
+  "logo": "assets/paper_img/eventlogos/sc.svg",
   "link": "",
-  "location": "",
-  "date": "11/2017",
-  "time": "",
-  "description": "At the end of November there will be a pub quiz in Leiden. Details will follow soon!"
+  "location": "Bar Beton, Utrecht Central Station",
+  "date": "28/11/2016",
+  "time": "19:30-22:30",
+  "description": "In November, we will have a statistics café on the exciting topic of Sports Statistics at Utrecht Central Station. Further details to follow soon!"
 }

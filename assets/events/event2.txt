@@ -1,10 +1,9 @@
-
 {
-  "title": "Statistics Café",
-  "logo": "assets/paper_img/eventlogos/sc.svg",
+  "title": "Company Visit",
+  "logo": "assets/paper_img/eventlogos/co.svg",
   "link": "",
-  "location": "Bar Beton, Utrecht Central Station",
-  "date": "11/2016",
+  "location": "",
+  "date": "11/2017",
   "time": "",
-  "description": "In November, we intend to have another statistics café at Utrecht Central Station. Details to follow soon!"
+  "description": "We plan to organise another visit at a statistics-related department of an interesting company in November. Details will follow soon!"
 }

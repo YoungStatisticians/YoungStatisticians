@@ -1,9 +1,9 @@
 {
-  "title": "Company Visit Alliander",
-  "logo": "assets/paper_img/eventlogos/co.svg",
-  "link": "https://docs.google.com/forms/d/1Sp6iZibUPGpjoq3CZy36HxcU3T-8uPfpfeqO3mZ2HK4",
-  "location": "Utrechtseweg 68, Arnhem",
-  "date": "18/09/2017",
-  "time": "15:00-18:00",
-  "description": "At this event we will visit Alliander, a large energy network provider. By visiting their department 'Data & Insight' we will learn about how Alliander learns from the past, monitors the present, and predicts the effects of developments in the world of energy. There will be two talks, an energy quiz, and of course there will be drinks afterwards!"
+  "title": "Pub Quiz:<br>Improbable Heroes",
+  "logo": "assets/paper_img/eventlogos/pq.svg",
+  "link": "https://docs.google.com/forms/d/1CdHkZBwLZYgdtzlS6X1sHyM7X3vWSfWnVRMrhY8YIwo/edit?usp=drive_web",
+  "location": "VSL Catena, Kolfmakersteeg 8, Leiden",
+  "date": "01/11/2017",
+  "time": "19:00-22:00",
+  "description": "Quick!!! To the Statmobile! Join us for a pubquiz on statistical heroes in Leiden. Sign up for a free welcome drink!"
 }
