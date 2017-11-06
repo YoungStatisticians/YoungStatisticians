@@ -5,5 +5,5 @@
   "location": "Bar Beton, Utrecht Central Station",
   "date": "28/11/2016",
   "time": "19:30-22:30",
-  "description": "In November, we will have a statistics café on the exciting topic of Sports Statistics at Utrecht Central Station. Further details to follow soon!"
+  "description": "How do you derive the best strategy for winning a match? Which talents from the Dutch soccer league will become big players in a few years? Matthijs Wolters, director Intelligence at Scisports, explains how Scisports converts soccer data into ranking of players, scouting and transfers; Arie-Willem de Leeuw, researcher at Leiden University, elucidates how to derive winning strategies by visualizing data and machine learning. Sign up for a free drink!"
 }
