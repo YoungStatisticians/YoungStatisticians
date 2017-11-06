@@ -1,7 +1,7 @@
 {
   "title": "Statistics Café:<br>Sports Statistics",
   "logo": "assets/paper_img/eventlogos/sc.svg",
-  "link": "",
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLSfYafmS3gAWPCSUTgZ_FkJodiEr5q8_V7jrVrQj1OLheP7FFg/viewform",
   "location": "Bar Beton, Utrecht Central Station",
   "date": "28/11/2016",
   "time": "19:30-22:30",
